@@ -1,5 +1,5 @@
 ---Leetcode 570
----Difficulty:easy
+---Difficulty: Medium
 ---Concepts: WHERE clause, GROUP BY, HAVING, COUNT(), Subquery
 
 SELECT name 
